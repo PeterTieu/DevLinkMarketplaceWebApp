@@ -1,0 +1,9 @@
+.navigation-bar-link {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navigation-bar-link a {
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.jobs-div {
+    display: grid;
+    justify-items: center;
+}
+
+.jobs-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px 80px;
+}
+
+.search-input {
+    text-align: center;
+}

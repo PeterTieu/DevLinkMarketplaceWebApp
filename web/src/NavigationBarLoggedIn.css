@@ -1,0 +1,12 @@
+.navigation-bar-div {
+    color: white;
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation-bar-links-div {
+    display: flex;
+    align-items: center;
+}

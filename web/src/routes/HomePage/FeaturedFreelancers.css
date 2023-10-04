@@ -1,0 +1,11 @@
+.featured-freelancers-div {
+    display: grid;
+    justify-items: center;
+}
+
+.featured-freelancers-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px 80px;
+}

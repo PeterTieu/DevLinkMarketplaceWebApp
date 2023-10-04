@@ -1,0 +1,11 @@
+.see-more-button-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 10px 50px 10px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(185, 135, 233);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(209, 182, 233);
+}

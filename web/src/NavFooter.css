@@ -1,0 +1,11 @@
+/* Make the wrapper take the full viewport height */
+.page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Allow the content to grow and take any available space */
+.content-wrap {
+    flex: 1;
+}

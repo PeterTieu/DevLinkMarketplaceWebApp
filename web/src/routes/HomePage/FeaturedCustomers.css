@@ -1,0 +1,13 @@
+.featured-customers-div {
+    display: grid;
+    justify-items: center;
+    /* background-color: rgb(241, 237, 232); */
+    background-image: linear-gradient(180deg, rgb(241, 237, 232), rgb(239, 205, 163));
+}
+
+.featured-customers-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px 80px;
+}

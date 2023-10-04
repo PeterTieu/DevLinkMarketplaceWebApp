@@ -1,0 +1,13 @@
+.section {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.experience-section-fields-div {
+    display: flex;
+    text-align: right;
+}
+
+.experience-section-fields-div input {
+    width: 150px;
+}

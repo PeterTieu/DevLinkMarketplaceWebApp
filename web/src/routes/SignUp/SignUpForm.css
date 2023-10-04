@@ -1,0 +1,33 @@
+.sign-up-form-div {
+    margin: 50px 10px 10px 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.signup-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-div p {
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+
+.signup-div input {
+    font-size: 18px;
+    height: 45px;
+    width: 300px;
+    padding-left: 10px;
+}
+
+.signup-div Button {
+    width: 120px;
+    height: 50px;
+    margin-top: 0;
+}
+
+.signup-div>*:not(:last-child) {
+    margin-right: 20px;
+}
